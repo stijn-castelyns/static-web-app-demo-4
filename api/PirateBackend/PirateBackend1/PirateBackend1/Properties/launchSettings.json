@@ -1,8 +1,8 @@
 {
   "profiles": {
-    "PirateBackend": {
+    "PirateBackend1": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7255",
+      "commandLineArgs": "--port 7202",
       "launchBrowser": false
     }
   }
