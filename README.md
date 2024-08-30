@@ -1,0 +1,1 @@
+# My pirate blog documentation
